@@ -4,9 +4,9 @@
 [![rank](https://make.fun/badge/bring-the-humans-02/edwardlau2028/make-fun-getting-started/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
 [![reward](https://make.fun/badge/bring-the-humans-02/edwardlau2028/make-fun-getting-started/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
-> **Start here:** [Sign up for make.fun with my referral link](https://make.fun/r/mes5e97q)
+> **Start here:** [Sign up for make.fun with my referral link](https://make.fun/r/t516jykd)
 >
-> Referral code: `mes5e97q`
+> Referral code: `t516jykd`
 
 If you can describe what you want built and steer an AI coding agent, you can earn real money on make.fun — no
 client hunting, no invoices, no portfolio required. This guide walks you from zero to your first submitted entry,
@@ -15,7 +15,7 @@ and explains how the whole thing works along the way.
 ## The 10-minute version
 
 Short on time? Here is the whole loop in one paragraph: sign up through
-[my referral link](https://make.fun/r/mes5e97q) (code `mes5e97q`), link GitHub and a Solana wallet on your
+[my referral link](https://make.fun/r/t516jykd) (code `t516jykd`), link GitHub and a Solana wallet on your
 profile, pick a bounty whose task you can judge, download its kit, open a fresh agent session in a new public
 repository, let the agent build the entry, bundle the session transcripts, run the local checks, submit — then
 read the checks, fix what they flag, and resubmit before the deadline. The rest of this guide is that paragraph,
@@ -64,7 +64,7 @@ bounty's reward pool.
 
 ## Step 1 — Create your account
 
-1. Open [my referral link](https://make.fun/r/mes5e97q) — referral code `mes5e97q` — and click **Sign in** at
+1. Open [my referral link](https://make.fun/r/t516jykd) — referral code `t516jykd` — and click **Sign in** at
    the top right.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. Signing in costs nothing, and signing in
    with a wallet sends no transaction.
@@ -229,7 +229,7 @@ worth right now, and everything you have earned are on the **Referrals** tab of 
 reviewed for at least a day before you can claim it, and only real new accounts that take part count — fake or bot
 signups never do.
 
-If this guide helped, signing up through [my link](https://make.fun/r/mes5e97q) (code `mes5e97q`) is a nice way
+If this guide helped, signing up through [my link](https://make.fun/r/t516jykd) (code `t516jykd`) is a nice way
 to say thanks.
 
 ## Common mistakes to avoid
@@ -298,4 +298,4 @@ the one that counts.
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/mes5e97q · code `mes5e97q`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/t516jykd · code `t516jykd`</sub>
